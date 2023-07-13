@@ -8,7 +8,7 @@
             {"block": "minecraft:blackstone", "weight": 95}
         ],
         "innerShellBlocks": [
-            {"block": "byg:brimstone", "weight": 40},
+            {"block": "minecraft:iron_ore", "weight": 40},
             {"block": "emendatusenigmatica:uranium_brimstone_ore", "weight": 30},
             {"block": "emendatusenigmatica:niter_brimstone_ore", "weight": 20},
             {"block": "emendatusenigmatica:lead_brimstone_ore", "weight": 10}
