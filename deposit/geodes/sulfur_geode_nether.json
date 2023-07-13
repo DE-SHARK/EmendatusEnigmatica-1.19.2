@@ -8,10 +8,10 @@
             {"block": "minecraft:blackstone", "weight": 95}
         ],
         "innerShellBlocks": [
-            {"block": "minecraft:iron_ore", "weight": 40},
-            {"block": "emendatusenigmatica:uranium_brimstone_ore", "weight": 30},
-            {"block": "emendatusenigmatica:niter_brimstone_ore", "weight": 20},
-            {"block": "emendatusenigmatica:lead_brimstone_ore", "weight": 10}
+            {"block": "emendatusenigmatica:iron_crimsite_ore", "weight": 40},
+            {"block": "emendatusenigmatica:uranium_crimsite_ore", "weight": 30},
+            {"block": "emendatusenigmatica:niter_crimsite_ore", "weight": 20},
+            {"block": "emendatusenigmatica:lead_crimsite_ore", "weight": 10}
         ],
         "innerBlocks": [
             {"block": "emendatusenigmatica:sulfur_cluster_shard_block", "weight": 75},
