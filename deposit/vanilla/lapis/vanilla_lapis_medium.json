@@ -1,0 +1,23 @@
+{
+  "type": "emendatusenigmatica:vanilla_deposit",
+  "dimension": "minecraft:overworld",
+  "biomes": [],
+  "registryName": "vanilla_lapis_medium",
+  "config": {
+    "material": "lapis",
+    "fillerTypes": [
+      "minecraft_deepslate",
+      "minecraft_tuff",
+      "minecraft_stone",
+      "minecraft_andesite",
+      "minecraft_granite",
+      "minecraft_diorite"
+    ],
+    "chance": 6,
+    "size": 10,
+    "minYLevel": 10,
+    "maxYLevel": 30,
+    "placement": "uniform",
+    "rarity": "common"
+  }
+}

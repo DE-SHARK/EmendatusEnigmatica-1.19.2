@@ -1,0 +1,23 @@
+{
+  "type": "emendatusenigmatica:vanilla_deposit",
+  "dimension": "minecraft:overworld",
+  "biomes": [],
+  "registryName": "vanilla_coal_medium",
+  "config": {
+    "material": "coal",
+    "fillerTypes": [
+      "minecraft_deepslate",
+      "minecraft_tuff",
+      "minecraft_stone",
+      "minecraft_andesite",
+      "minecraft_granite",
+      "minecraft_diorite"
+    ],
+    "chance": 12,
+    "size": 10,
+    "minYLevel": -10,
+    "maxYLevel": 30,
+    "placement": "uniform",
+    "rarity": "common"
+  }
+}

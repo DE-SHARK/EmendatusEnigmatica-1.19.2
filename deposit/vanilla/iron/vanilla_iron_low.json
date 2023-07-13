@@ -1,0 +1,23 @@
+{
+  "type": "emendatusenigmatica:vanilla_deposit",
+  "dimension": "minecraft:overworld",
+  "biomes": [],
+  "registryName": "vanilla_iron_low",
+  "config": {
+    "material": "iron",
+    "fillerTypes": [
+      "minecraft_deepslate",
+      "minecraft_tuff",
+      "minecraft_stone",
+      "minecraft_andesite",
+      "minecraft_granite",
+      "minecraft_diorite"
+    ],
+    "chance": 12,
+    "size": 10,
+    "minYLevel": -64,
+    "maxYLevel": 0,
+    "placement": "uniform",
+    "rarity": "common"
+  }
+}
