@@ -3,7 +3,6 @@
     "source": "modded",
     "localizedName": "Apatite",
     "processedTypes": [
-      "ore",
       "storage_block",
       "gem",
       "dust"

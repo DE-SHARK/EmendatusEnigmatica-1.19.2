@@ -4,7 +4,6 @@
   "localizedName": "Aluminium",
   "processedTypes": [
       "storage_block",
-      "ore",
       "raw",
       "crushed_ore",
       "ingot",

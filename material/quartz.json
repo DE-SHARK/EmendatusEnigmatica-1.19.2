@@ -4,7 +4,6 @@
   "localizedName": "Nether Quartz",
   "disableDefaultOre": true,
   "processedTypes": [
-    "ore",
     "dust",
     "gear"
   ],

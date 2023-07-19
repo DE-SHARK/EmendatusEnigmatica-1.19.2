@@ -4,7 +4,7 @@
   "localizedName": "Redstone",
   "disableDefaultOre": true,
   "processedTypes": [
-    "ore"
+    "fluid"
   ],
   "properties": {
     "materialType": "gem",
