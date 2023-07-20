@@ -2,7 +2,7 @@
     "id": "iron",
     "source": "vanilla",
     "localizedName": "Iron",
-    "disableDefaultOre": true,
+    "disableDefaultOre": false,
     "processedTypes": [
         "storage_block",
         "raw",

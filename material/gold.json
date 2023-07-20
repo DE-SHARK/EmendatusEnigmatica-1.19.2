@@ -2,7 +2,7 @@
     "id": "gold",
     "source": "vanilla",
     "localizedName": "Gold",
-    "disableDefaultOre": true,
+    "disableDefaultOre": false,
     "processedTypes": [
         "storage_block",
         "raw",

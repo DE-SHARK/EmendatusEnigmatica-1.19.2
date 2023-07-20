@@ -2,7 +2,7 @@
     "id": "copper",
     "source": "vanilla",
     "localizedName": "Copper",
-    "disableDefaultOre": true,
+    "disableDefaultOre": false,
     "processedTypes": [
         "storage_block",
         "raw",

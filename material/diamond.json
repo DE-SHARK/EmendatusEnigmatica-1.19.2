@@ -2,7 +2,7 @@
     "id": "diamond",
     "source": "vanilla",
     "localizedName": "Diamond",
-    "disableDefaultOre": true,
+    "disableDefaultOre": false,
     "processedTypes": [
       "storage_block",
       "dust",
