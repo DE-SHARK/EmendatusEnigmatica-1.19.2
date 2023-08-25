@@ -4,8 +4,6 @@
     "localizedName": "Copper",
     "disableDefaultOre": false,
     "processedTypes": [
-        "storage_block",
-        "raw",
         "crushed_ore",
         "ingot",
         "nugget",
