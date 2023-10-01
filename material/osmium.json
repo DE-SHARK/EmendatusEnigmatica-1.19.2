@@ -16,12 +16,14 @@
         "crystal",
         "shard",
         "clump",
-        "dirty_dust"
+        "dirty_dust",
+        "infuse_type"
     ],
     "properties": {
         "materialType": "metal",
         "harvestLevel": 1
     },
+    "materialColor": "a4b3cf",
     "colors": {
         "gasColor": "a4b3cf"
     },
